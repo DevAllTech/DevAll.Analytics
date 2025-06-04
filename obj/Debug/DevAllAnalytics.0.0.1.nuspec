@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DevAllAnalytics</id>
+    <version>0.0.1</version>
+    <authors>DevAll Tech</authors>
+    <description>SDK oficial do DevAll Tech Analytics para aplicações .NET</description>
+    <tags>analytics logging monitoring devall</tags>
+    <repository type="git" url="https://github.com/DevAllTech/DevAll.Analytics" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\dev\sources\DevAll\DevAll.Analytics\bin\Debug\net9.0\DevAll.Analytics.dll" target="lib\net9.0\DevAll.Analytics.dll" />
+  </files>
+</package>

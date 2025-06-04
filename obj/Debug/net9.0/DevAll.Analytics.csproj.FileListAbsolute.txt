@@ -1,0 +1,11 @@
+D:\dev\sources\DevAll\DevAll.Analytics\obj\Debug\net9.0\DevAll.Analytics.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sources\DevAll\DevAll.Analytics\obj\Debug\net9.0\DevAll.Analytics.AssemblyInfoInputs.cache
+D:\dev\sources\DevAll\DevAll.Analytics\obj\Debug\net9.0\DevAll.Analytics.AssemblyInfo.cs
+D:\dev\sources\DevAll\DevAll.Analytics\obj\Debug\net9.0\DevAll.Analytics.csproj.CoreCompileInputs.cache
+D:\dev\sources\DevAll\DevAll.Analytics\bin\Debug\net9.0\DevAll.Analytics.deps.json
+D:\dev\sources\DevAll\DevAll.Analytics\bin\Debug\net9.0\DevAll.Analytics.dll
+D:\dev\sources\DevAll\DevAll.Analytics\bin\Debug\net9.0\DevAll.Analytics.pdb
+D:\dev\sources\DevAll\DevAll.Analytics\obj\Debug\net9.0\DevAll.Analytics.dll
+D:\dev\sources\DevAll\DevAll.Analytics\obj\Debug\net9.0\refint\DevAll.Analytics.dll
+D:\dev\sources\DevAll\DevAll.Analytics\obj\Debug\net9.0\DevAll.Analytics.pdb
+D:\dev\sources\DevAll\DevAll.Analytics\obj\Debug\net9.0\ref\DevAll.Analytics.dll

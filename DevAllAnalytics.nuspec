@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>DevAllAnalytics</id>
+    <version>0.0.1</version>
+    <authors>DevAll Tech</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://analytics.devalltech.com.br</projectUrl>
+    <iconUrl>https://www.devalltech.com.br/favicon.png</iconUrl>
+    <description>SDK oficial do DevAll Tech Analytics para aplicações .NET. Permite o envio de eventos, erros, logs e métricas do seu sistema diretamente para a plataforma DevAll Tech Analytics.</description>
+    <releaseNotes>
+      - Primeira versão do SDK DevAll Analytics para .NET
+      - Suporte a envio de eventos com categorização
+      - Envio de payloads e deviceId
+    </releaseNotes>
+    <tags>analytics logging telemetry devall sdk</tags>
+    <repository type="git" url="https://github.com/DevAllTech/DevAll.Analytics" />
+    <readme>README.md</readme>
+  </metadata>
+  <files>
+    <file src="bin/Release/net9.0/DevAll.Analytics.dll" target="lib/net9.0/" />
+    <file src="README.md" target="" />
+  </files>
+</package>

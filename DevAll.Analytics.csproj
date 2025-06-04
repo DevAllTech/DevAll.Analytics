@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	
+	<PackageId>DevAllAnalytics</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>DevAll Tech</Authors>
+    <Company>DevAll Tech</Company>
+    <Description>SDK oficial do DevAll Tech Analytics para aplicações .NET</Description>
+    <PackageTags>analytics;logging;monitoring;devall</PackageTags>
+    <RepositoryUrl>https://github.com/DevAllTech/DevAll.Analytics</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
