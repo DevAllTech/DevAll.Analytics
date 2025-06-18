@@ -34,7 +34,7 @@ namespace DevAll.Analytics
                 category,
                 message,
                 payload,
-                deviceInfo = deviceInfo ?? new { platform = "", osVersion = "", locale = "", isPhysicalDevice = true },
+                deviceInfo = deviceInfo ?? DevAllSystemInfo.GetDefaultDeviceInfo(),
                 ip = "0.0.0.0"
             };
 

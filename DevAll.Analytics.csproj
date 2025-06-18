@@ -1,12 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
+    <TargetFrameworks>net8.0</TargetFrameworks>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	
-	<PackageId>DevAllAnalytics</PackageId>
-    <Version>0.0.1</Version>
+
+    <EnablePreviewMsBuildFeatures>true</EnablePreviewMsBuildFeatures>
+
+    <PackageId>DevAllAnalytics</PackageId>
+    <Version>0.0.2</Version>
     <Authors>DevAll Tech</Authors>
     <Company>DevAll Tech</Company>
     <Description>SDK oficial do DevAll Tech Analytics para aplicações .NET</Description>

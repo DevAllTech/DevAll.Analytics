@@ -6,12 +6,12 @@
     <authors>DevAll Tech</authors>
     <description>SDK oficial do DevAll Tech Analytics para aplicações .NET</description>
     <tags>analytics logging monitoring devall</tags>
-    <repository type="git" url="https://github.com/DevAllTech/DevAll.Analytics" />
+    <repository type="git" url="https://github.com/DevAllTech/DevAll.Analytics" commit="f210ec09c7c7982d520ddf5d0f40f5192760d1c4" />
     <dependencies>
-      <group targetFramework="net9.0" />
+      <group targetFramework="net8.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\dev\sources\DevAll\DevAll.Analytics\bin\Debug\net9.0\DevAll.Analytics.dll" target="lib\net9.0\DevAll.Analytics.dll" />
+    <file src="D:\dev\sources\DevAll\DevAll.Analytics\bin\Debug\net8.0\DevAll.Analytics.dll" target="lib\net8.0\DevAll.Analytics.dll" />
   </files>
 </package>

@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>DevAllAnalytics</id>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <authors>DevAll Tech</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
@@ -19,7 +19,7 @@
     <readme>README.md</readme>
   </metadata>
   <files>
-    <file src="bin/Release/net9.0/DevAll.Analytics.dll" target="lib/net9.0/" />
+    <file src="bin/Release/net8.0/DevAll.Analytics.dll" target="lib/net8.0/" />
     <file src="README.md" target="" />
   </files>
 </package>
